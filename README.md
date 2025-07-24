@@ -42,7 +42,6 @@ BiasShield combines machine learning with fairness-aware algorithms to:
   - Demographic Parity: Equal approval rates across groups
   - Equalized Odds: Equal TPR and FPR across groups
   - Disparate Impact: Ratio of approval rates between groups
-  
 - **Individual Fairness**:
   - Consistency: Similar individuals receive similar predictions
   - Counterfactual Fairness: Predictions don't change when protected attributes change
@@ -72,12 +71,14 @@ BiasShield combines machine learning with fairness-aware algorithms to:
 ### Backend Setup
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/YourUsername/BiasShield.git
    cd BiasShield
    ```
 
 2. Set up the Python environment:
+
    ```
    cd backend
    pip install -r requirements.txt
@@ -91,12 +92,14 @@ BiasShield combines machine learning with fairness-aware algorithms to:
 ### Frontend Setup
 
 1. Install dependencies:
+
    ```
    cd frontend
    npm install
    ```
 
 2. Start the development server:
+
    ```
    npm run dev
    ```
