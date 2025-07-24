@@ -73,7 +73,7 @@ BiasShield combines machine learning with fairness-aware algorithms to:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/YourUsername/BiasShield.git
+   git clone https://github.com/Joystonm/BiasShield.git
    cd BiasShield
    ```
 
